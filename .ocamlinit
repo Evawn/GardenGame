@@ -1,0 +1,6 @@
+#require "str";;
+#require "graphics";;
+#directory "_build";;
+
+#load_rec "graphics.cma";;
+#load "graphics.cma";;
